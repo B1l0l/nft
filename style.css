@@ -417,35 +417,35 @@ body {
 }
 
 .categories-wrapper__item-link--art::before {
-    background-image: url(../images/icons/categories-1.svg);
+    background-image: url(./images/nav/icons/categories-1.svg);
 }
 
 .categories-wrapper__item-link--collectibles::before {
-    background-image: url(../images/icons/categories-2.svg);
+    background-image: url(./images/nav/icons/categories-2.svg);
 }
 
 .categories-wrapper__item-link--music::before {
-    background-image: url(../images/icons/categories-3.svg);
+    background-image: url(./images/nav/icons/categories-3.svg);
 }
 
 .categories-wrapper__item-link--photography::before {
-    background-image: url(../images/icons/categories-4.svg);
+    background-image: url(./images/nav/icons/categories-4.svg);
 }
 
 .categories-wrapper__item-link--video::before {
-    background-image: url(../images/icons/categories-5.svg);
+    background-image: url(./images/nav/icons/categories-5.svg);
 }
 
 .categories-wrapper__item-link--utility::before {
-    background-image: url(../images/icons/categories-6.svg);
+    background-image: url(./images/nav/icons/categories-6.svg);
 }
 
 .categories-wrapper__item-link--sport::before {
-    background-image: url(../images/icons/categories-7.svg);
+    background-image: url(./images/nav/icons/categories-7.svg);
 }
 
 .categories-wrapper__item-link--virtual::before {
-    background-image: url(../images/icons/categories-8.svg);
+    background-image: url(./images/nav/icons/categories-8.svg);
 }
 
 .categories-wrapper__item-subtitle {
